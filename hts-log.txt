@@ -1,0 +1,636 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Oct 2018 00:25:40 at https://www.weezbe.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.weezbe.com/ -%L https://www.weezbe.com/ -O1 "C:\Users\camara\Desktop\laby\ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:25:40	Error: 	Could not include URL list: https://www.weezbe.com/
+00:26:43	Error: 	"Method Not Allowed" (405) at link https://www.weezbe.com/xmlrpc.php (from https://www.weezbe.com/)
+00:26:43	Error: 	"Not Found" (404) at link https://www.weezbe.com/linkid.js (from https://www.weezbe.com/)
+00:27:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/default/images/fb_publication.png (from https://www.weezbe.com/)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/weezbe/fonts/slick.eot (from https://www.weezbe.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/weezbe/slick.css,wp-content/themes/weezbe/slick-theme.css,wp-content/themes/weezbe/style.css,wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css,wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css,wp-content/plugins/jetpack/css/jetpack.css)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/weezbe/fonts/slick.eot? (from https://www.weezbe.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/weezbe/slick.css,wp-content/themes/weezbe/slick-theme.css,wp-content/themes/weezbe/style.css,wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css,wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css,wp-content/plugins/jetpack/css/jetpack.css)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/weezbe/fonts/slick.woff (from https://www.weezbe.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/weezbe/slick.css,wp-content/themes/weezbe/slick-theme.css,wp-content/themes/weezbe/style.css,wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css,wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css,wp-content/plugins/jetpack/css/jetpack.css)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/weezbe/fonts/slick.ttf (from https://www.weezbe.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/weezbe/slick.css,wp-content/themes/weezbe/slick-theme.css,wp-content/themes/weezbe/style.css,wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css,wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css,wp-content/plugins/jetpack/css/jetpack.css)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/wp-content/themes/weezbe/fonts/slick.svg (from https://www.weezbe.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/weezbe/slick.css,wp-content/themes/weezbe/slick-theme.css,wp-content/themes/weezbe/style.css,wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css,wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css,wp-content/plugins/jetpack/css/jetpack.css)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/fr_FR/sdk.js)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/^([^:/? (from connect.facebook.net/fr_FR/sdk.js)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/restserver.php (from connect.facebook.net/fr_FR/sdk.js)
+00:29:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/fonctionnalites/linkid.js (from https://www.weezbe.com/fonctionnalites/)
+00:29:15	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4912
+00:29:15	Warning: 	File has moved from https://www.weezbe.com/?p=4912 to https://www.weezbe.com/fonctionnalites/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/prix-tarifs-creer-site-ecommerce/linkid.js (from https://www.weezbe.com/prix-tarifs-creer-site-ecommerce/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=52
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=52 to https://www.weezbe.com/prix-tarifs-creer-site-ecommerce/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=97
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=97 to https://www.weezbe.com/agence-web-e-commerce/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/charte-graphique/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/charte-graphique/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=554
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=554 to https://www.weezbe.com/agence-web-e-commerce/charte-graphique/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/accompagnement-optimisation-ecommerce/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/accompagnement-optimisation-ecommerce/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5257
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=5257 to https://www.weezbe.com/agence-web-e-commerce/accompagnement-optimisation-ecommerce/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/referencement/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/referencement/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=46
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=46 to https://www.weezbe.com/agence-web-e-commerce/referencement/
+00:29:20	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/packs-projets-ecommerce/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/packs-projets-ecommerce/)
+00:29:20	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4312
+00:29:20	Warning: 	File has moved from https://www.weezbe.com/?p=4312 to https://www.weezbe.com/agence-web-e-commerce/packs-projets-ecommerce/
+00:30:03	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/linkid.js (from https://www.weezbe.com/blog/)
+00:35:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/stripe-comment-lintegrer-a-votre-boutique-weezbe/linkid.js (from https://www.weezbe.com/blog/stripe-comment-lintegrer-a-votre-boutique-weezbe/)
+00:35:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6246
+00:35:34	Warning: 	File has moved from https://www.weezbe.com/?p=6246 to https://www.weezbe.com/blog/stripe-comment-lintegrer-a-votre-boutique-weezbe/
+00:35:38	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/nouveau-theme-weezbe/linkid.js (from https://www.weezbe.com/blog/nouveau-theme-weezbe/)
+00:35:38	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4726
+00:35:38	Warning: 	File has moved from https://www.weezbe.com/?p=4726 to https://www.weezbe.com/blog/nouveau-theme-weezbe/
+00:35:38	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reference-les-petites-chouettes/linkid.js (from https://www.weezbe.com/blog/reference-les-petites-chouettes/)
+00:35:38	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6171
+00:35:38	Warning: 	File has moved from https://www.weezbe.com/?p=6171 to https://www.weezbe.com/blog/reference-les-petites-chouettes/
+00:35:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/paiement-payzen/linkid.js (from https://www.weezbe.com/blog/paiement-payzen/)
+00:35:44	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6232
+00:35:44	Warning: 	File has moved from https://www.weezbe.com/?p=6232 to https://www.weezbe.com/blog/paiement-payzen/
+00:35:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/agence-web-e-commerce/nukium/linkid.js (from https://www.weezbe.com/agence-web-e-commerce/nukium/)
+00:35:45	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6077
+00:35:45	Warning: 	File has moved from https://www.weezbe.com/?p=6077 to https://www.weezbe.com/agence-web-e-commerce/nukium/
+00:35:58	Error: 	"Not Found" (404) at link https://www.weezbe.com/partenaires/linkid.js (from https://www.weezbe.com/partenaires/)
+00:35:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4778
+00:35:59	Warning: 	File has moved from https://www.weezbe.com/?p=4778 to https://www.weezbe.com/partenaires/
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/contact/linkid.js (from https://www.weezbe.com/contact/)
+00:35:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=32
+00:35:59	Warning: 	File has moved from https://www.weezbe.com/?p=32 to https://www.weezbe.com/contact/
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/mentions-legales-e-commerce/linkid.js (from https://www.weezbe.com/mentions-legales-e-commerce/)
+00:35:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=142
+00:35:59	Warning: 	File has moved from https://www.weezbe.com/?p=142 to https://www.weezbe.com/mentions-legales-e-commerce/
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/g.gif (from https://stats.wp.com/e-201841.js)
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/c.gif (from https://stats.wp.com/e-201841.js)
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/t.gif (from https://stats.wp.com/e-201841.js)
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/privacy-policy/linkid.js (from https://www.weezbe.com/privacy-policy/)
+00:35:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6088
+00:35:59	Warning: 	File has moved from https://www.weezbe.com/?p=6088 to https://www.weezbe.com/privacy-policy/
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/workwear-pro/linkid.js (from https://www.weezbe.com/blog/workwear-pro/)
+00:35:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6125
+00:35:59	Warning: 	File has moved from https://www.weezbe.com/?p=6125 to https://www.weezbe.com/blog/workwear-pro/
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/fonctionnalites/g.gif (from https://stats.wp.com/e-201836.js)
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/fonctionnalites/c.gif (from https://stats.wp.com/e-201836.js)
+00:35:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/fonctionnalites/t.gif (from https://stats.wp.com/e-201836.js)
+00:36:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/page/2/linkid.js (from https://www.weezbe.com/blog/page/2/)
+00:36:27	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/linkid.js (from https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/)
+00:36:28	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/charte-graphique/linkid.js (from https://www.weezbe.com/blog/tag/charte-graphique/)
+00:36:30	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/graphisme/linkid.js (from https://www.weezbe.com/blog/tag/graphisme/)
+00:36:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/skin/linkid.js (from https://www.weezbe.com/blog/tag/skin/)
+00:36:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/template/linkid.js (from https://www.weezbe.com/blog/tag/template/)
+00:36:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/theme/linkid.js (from https://www.weezbe.com/blog/tag/theme/)
+00:36:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/weezbe/linkid.js (from https://www.weezbe.com/blog/tag/weezbe/)
+00:38:09	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/linkid.js (from https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/)
+00:38:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/exemple-boutique-weezbe/linkid.js (from https://www.weezbe.com/blog/tag/exemple-boutique-weezbe/)
+00:38:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/reference/linkid.js (from https://www.weezbe.com/blog/tag/reference/)
+00:38:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/actualite-solution-e-commerce-weezbe/linkid.js (from https://www.weezbe.com/blog/tag/actualite-solution-e-commerce-weezbe/)
+00:38:37	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/nouveautes/linkid.js (from https://www.weezbe.com/blog/tag/nouveautes/)
+00:38:42	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/paiement/linkid.js (from https://www.weezbe.com/blog/tag/paiement/)
+00:38:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/plugin/linkid.js (from https://www.weezbe.com/blog/tag/plugin/)
+00:38:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/comparateurs-marketplaces/linkid.js (from https://www.weezbe.com/blog/category/comparateurs-marketplaces/)
+00:40:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/conseils-optimisations-ecommerce/linkid.js (from https://www.weezbe.com/blog/category/conseils-optimisations-ecommerce/)
+00:40:28	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/eboulette-de-romuald/linkid.js (from https://www.weezbe.com/blog/category/eboulette-de-romuald/)
+00:40:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualites-site-e-commerce/linkid.js (from https://www.weezbe.com/blog/category/actualites-site-e-commerce/)
+00:42:21	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/e-mailing/linkid.js (from https://www.weezbe.com/blog/category/e-mailing/)
+00:42:33	Error: 	"Error when decompressing" (-1) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-lance-une-nouvelle-newsletter-lobjet-«-enrubanner-allegrement-vos-gougounes-»/ (from https://www.weezbe.com/blog/category/e-mailing/)
+00:42:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/ergonomie/linkid.js (from https://www.weezbe.com/blog/category/ergonomie/)
+00:42:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/medias-sociaux/linkid.js (from https://www.weezbe.com/blog/category/medias-sociaux/)
+00:43:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/publicite-en-ligne/linkid.js (from https://www.weezbe.com/blog/category/publicite-en-ligne/)
+00:43:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/linkid.js (from https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/)
+00:43:26	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/tutoriel-weezbe/linkid.js (from https://www.weezbe.com/blog/category/tutoriel-weezbe/)
+00:43:38	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/worldline-sips/linkid.js (from https://www.weezbe.com/blog/worldline-sips/)
+00:43:38	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6105
+00:43:38	Warning: 	File has moved from https://www.weezbe.com/?p=6105 to https://www.weezbe.com/blog/worldline-sips/
+00:43:38	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/lbijoux-reference-weezbe/linkid.js (from https://www.weezbe.com/blog/lbijoux-reference-weezbe/)
+00:43:39	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5778
+00:43:39	Warning: 	File has moved from https://www.weezbe.com/?p=5778 to https://www.weezbe.com/blog/lbijoux-reference-weezbe/
+00:43:39	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/hurbynk-reference-weezbe/linkid.js (from https://www.weezbe.com/blog/hurbynk-reference-weezbe/)
+00:43:39	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5526
+00:43:39	Warning: 	File has moved from https://www.weezbe.com/?p=5526 to https://www.weezbe.com/blog/hurbynk-reference-weezbe/
+00:43:39	Error: 	"Not Found" (404) at link https://admin.weezbe.com/images/bgrd_path.png (from https://admin.weezbe.com/includes/modele.css)
+00:43:39	Error: 	"Not Found" (404) at link https://medias.weezbe.com/assets/images/fancybox/fancybox-x.png (from https://medias.weezbe.com/assets/cache/jquery.fancybox-min.css)
+00:43:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/page/3/linkid.js (from https://www.weezbe.com/blog/page/3/)
+00:43:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/checkout/linkid.js (from https://www.weezbe.com/blog/tag/checkout/)
+00:43:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/paiement-securise/linkid.js (from https://www.weezbe.com/blog/tag/paiement-securise/)
+00:43:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/ledenicheur/linkid.js (from https://www.weezbe.com/blog/ledenicheur/)
+00:43:40	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6053
+00:43:40	Warning: 	File has moved from https://www.weezbe.com/?p=6053 to https://www.weezbe.com/blog/ledenicheur/
+00:43:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/comparateurs-marketplaces/linkid.js (from https://www.weezbe.com/blog/tag/comparateurs-marketplaces/)
+00:43:42	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/flux-automatique/linkid.js (from https://www.weezbe.com/blog/tag/flux-automatique/)
+00:43:42	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/marketing/linkid.js (from https://www.weezbe.com/blog/tag/marketing/)
+00:43:42	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/chronopost-annonce-livraison-le-dimanche/linkid.js (from https://www.weezbe.com/blog/chronopost-annonce-livraison-le-dimanche/)
+00:43:42	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6038
+00:43:42	Warning: 	File has moved from https://www.weezbe.com/?p=6038 to https://www.weezbe.com/blog/chronopost-annonce-livraison-le-dimanche/
+00:43:46	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/chronopost/linkid.js (from https://www.weezbe.com/blog/tag/chronopost/)
+00:43:46	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/livraison/linkid.js (from https://www.weezbe.com/blog/tag/livraison/)
+00:43:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/logistique/linkid.js (from https://www.weezbe.com/blog/tag/logistique/)
+00:43:57	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/nord-riding-have-fun-enjoy-to-ride/linkid.js (from https://www.weezbe.com/blog/nord-riding-have-fun-enjoy-to-ride/)
+00:43:57	Warning: 	Moved Permanently for https://www.weezbe.com/?p=6023
+00:43:57	Warning: 	File has moved from https://www.weezbe.com/?p=6023 to https://www.weezbe.com/blog/nord-riding-have-fun-enjoy-to-ride/
+00:43:57	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/donnees-structurees-referencement-seo/linkid.js (from https://www.weezbe.com/blog/donnees-structurees-referencement-seo/)
+00:43:57	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5986
+00:43:57	Warning: 	File has moved from https://www.weezbe.com/?p=5986 to https://www.weezbe.com/blog/donnees-structurees-referencement-seo/
+00:44:03	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/2/linkid.js (from https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/2/)
+00:44:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/charte-graphique/g.gif (from https://stats.wp.com/e-201842.js)
+00:44:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/charte-graphique/c.gif (from https://stats.wp.com/e-201842.js)
+00:44:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/charte-graphique/t.gif (from https://stats.wp.com/e-201842.js)
+00:44:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/coup-denvoi-des-soldes-dete/linkid.js (from https://www.weezbe.com/blog/coup-denvoi-des-soldes-dete/)
+00:44:09	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4441
+00:44:09	Warning: 	File has moved from https://www.weezbe.com/?p=4441 to https://www.weezbe.com/blog/coup-denvoi-des-soldes-dete/
+00:44:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/gratuit/linkid.js (from https://www.weezbe.com/blog/tag/gratuit/)
+00:44:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/soldes/linkid.js (from https://www.weezbe.com/blog/tag/soldes/)
+00:44:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/telecharger/linkid.js (from https://www.weezbe.com/blog/tag/telecharger/)
+00:44:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/allez-plus-loin-avec-weezbe-grace-aux-extensions-weestore/linkid.js (from https://www.weezbe.com/blog/allez-plus-loin-avec-weezbe-grace-aux-extensions-weestore/)
+00:44:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4431
+00:44:11	Warning: 	File has moved from https://www.weezbe.com/?p=4431 to https://www.weezbe.com/blog/allez-plus-loin-avec-weezbe-grace-aux-extensions-weestore/
+00:44:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/boutique-en-ligne/linkid.js (from https://www.weezbe.com/blog/tag/boutique-en-ligne/)
+00:44:27	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/extensions/linkid.js (from https://www.weezbe.com/blog/tag/extensions/)
+00:44:30	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/solution-e-commerce/linkid.js (from https://www.weezbe.com/blog/tag/solution-e-commerce/)
+00:44:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/weestore/linkid.js (from https://www.weezbe.com/blog/tag/weestore/)
+00:44:38	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/page/2/linkid.js (from https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/page/2/)
+00:44:41	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/projetled-reference-weezbe/linkid.js (from https://www.weezbe.com/blog/projetled-reference-weezbe/)
+00:44:41	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5362
+00:44:41	Warning: 	File has moved from https://www.weezbe.com/?p=5362 to https://www.weezbe.com/blog/projetled-reference-weezbe/
+00:44:41	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/analyse/linkid.js (from https://www.weezbe.com/blog/tag/analyse/)
+00:44:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/coaching/linkid.js (from https://www.weezbe.com/blog/tag/coaching/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/e-merchandising/linkid.js (from https://www.weezbe.com/blog/tag/e-merchandising/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/sem/linkid.js (from https://www.weezbe.com/blog/tag/sem/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/service-e-commerce/linkid.js (from https://www.weezbe.com/blog/tag/service-e-commerce/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/g.gif (from https://stats.wp.com/e-201838.js)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/c.gif (from https://stats.wp.com/e-201838.js)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/t.gif (from https://stats.wp.com/e-201838.js)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/princesse-lou-laissez-vous-charmez-par-leurs-bracelets/linkid.js (from https://www.weezbe.com/blog/princesse-lou-laissez-vous-charmez-par-leurs-bracelets/)
+00:44:49	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5084
+00:44:49	Warning: 	File has moved from https://www.weezbe.com/?p=5084 to https://www.weezbe.com/blog/princesse-lou-laissez-vous-charmez-par-leurs-bracelets/
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/exemple-boutique/linkid.js (from https://www.weezbe.com/blog/tag/exemple-boutique/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/optimisation/linkid.js (from https://www.weezbe.com/blog/tag/optimisation/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/temoignage/linkid.js (from https://www.weezbe.com/blog/tag/temoignage/)
+00:44:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/galerie-dimage-pour-les-zoom-produit/linkid.js (from https://www.weezbe.com/blog/galerie-dimage-pour-les-zoom-produit/)
+00:44:49	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4985
+00:44:49	Warning: 	File has moved from https://www.weezbe.com/?p=4985 to https://www.weezbe.com/blog/galerie-dimage-pour-les-zoom-produit/
+00:44:52	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/version-weezbe/linkid.js (from https://www.weezbe.com/blog/tag/version-weezbe/)
+00:44:55	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/marketing-creez-ventes-flash-weezbe/linkid.js (from https://www.weezbe.com/blog/marketing-creez-ventes-flash-weezbe/)
+00:44:55	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4898
+00:44:55	Warning: 	File has moved from https://www.weezbe.com/?p=4898 to https://www.weezbe.com/blog/marketing-creez-ventes-flash-weezbe/
+00:44:55	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/conversion/linkid.js (from https://www.weezbe.com/blog/tag/conversion/)
+00:45:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/amelioration-checkout-parcours-dachat-weezbe/linkid.js (from https://www.weezbe.com/blog/amelioration-checkout-parcours-dachat-weezbe/)
+00:45:02	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4748
+00:45:02	Warning: 	File has moved from https://www.weezbe.com/?p=4748 to https://www.weezbe.com/blog/amelioration-checkout-parcours-dachat-weezbe/
+00:45:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/performance/linkid.js (from https://www.weezbe.com/blog/tag/performance/)
+00:45:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/nouveautes/page/2/linkid.js (from https://www.weezbe.com/blog/tag/nouveautes/page/2/)
+00:45:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/nouveau-partenariat-payplug/linkid.js (from https://www.weezbe.com/blog/nouveau-partenariat-payplug/)
+00:45:05	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5036
+00:45:05	Warning: 	File has moved from https://www.weezbe.com/?p=5036 to https://www.weezbe.com/blog/nouveau-partenariat-payplug/
+00:45:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/partenariat/linkid.js (from https://www.weezbe.com/blog/tag/partenariat/)
+00:45:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/ebay-retour-weezbe/linkid.js (from https://www.weezbe.com/blog/ebay-retour-weezbe/)
+00:45:06	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4871
+00:45:06	Warning: 	File has moved from https://www.weezbe.com/?p=4871 to https://www.weezbe.com/blog/ebay-retour-weezbe/
+00:45:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/ebay/linkid.js (from https://www.weezbe.com/blog/tag/ebay/)
+00:45:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/nouveau-partenariat-hipay/linkid.js (from https://www.weezbe.com/blog/nouveau-partenariat-hipay/)
+00:45:06	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5636
+00:45:06	Warning: 	File has moved from https://www.weezbe.com/?p=5636 to https://www.weezbe.com/blog/nouveau-partenariat-hipay/
+00:45:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/paiements-plusieurs-fois-paybox/linkid.js (from https://www.weezbe.com/blog/paiements-plusieurs-fois-paybox/)
+00:45:06	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5032
+00:45:06	Warning: 	File has moved from https://www.weezbe.com/?p=5032 to https://www.weezbe.com/blog/paiements-plusieurs-fois-paybox/
+00:45:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/taux-de-transformation/linkid.js (from https://www.weezbe.com/blog/tag/taux-de-transformation/)
+00:45:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/nouvelle-extension-weestore-choix-dune-date/linkid.js (from https://www.weezbe.com/blog/nouvelle-extension-weestore-choix-dune-date/)
+00:45:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5000
+00:45:11	Warning: 	File has moved from https://www.weezbe.com/?p=5000 to https://www.weezbe.com/blog/nouvelle-extension-weestore-choix-dune-date/
+00:45:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/iadvize/linkid.js (from https://www.weezbe.com/blog/iadvize/)
+00:45:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3646
+00:45:11	Warning: 	File has moved from https://www.weezbe.com/?p=3646 to https://www.weezbe.com/blog/iadvize/
+00:45:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/click-to-chat/linkid.js (from https://www.weezbe.com/blog/tag/click-to-chat/)
+00:45:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/social/linkid.js (from https://www.weezbe.com/blog/tag/social/)
+00:45:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/plugin/g.gif (from https://stats.wp.com/e-201837.js)
+00:45:12	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/plugin/c.gif (from https://stats.wp.com/e-201837.js)
+00:45:12	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/plugin/t.gif (from https://stats.wp.com/e-201837.js)
+00:45:12	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/comparateurs-marketplaces/page/2/linkid.js (from https://www.weezbe.com/blog/category/comparateurs-marketplaces/page/2/)
+00:45:21	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/augmenter-ventes-trafic-campagne-google-shopping/linkid.js (from https://www.weezbe.com/blog/augmenter-ventes-trafic-campagne-google-shopping/)
+00:45:21	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5318
+00:45:21	Warning: 	File has moved from https://www.weezbe.com/?p=5318 to https://www.weezbe.com/blog/augmenter-ventes-trafic-campagne-google-shopping/
+00:45:21	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/google/linkid.js (from https://www.weezbe.com/blog/tag/google/)
+00:45:29	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/sea/linkid.js (from https://www.weezbe.com/blog/tag/sea/)
+00:45:30	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/seo/linkid.js (from https://www.weezbe.com/blog/tag/seo/)
+00:45:30	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-1-produit-sur-les-comparo-avec-les-pompes-a-roro-en-titre/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-1-produit-sur-les-comparo-avec-les-pompes-a-roro-en-titre/)
+00:45:30	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3449
+00:45:30	Warning: 	File has moved from https://www.weezbe.com/?p=3449 to https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-1-produit-sur-les-comparo-avec-les-pompes-a-roro-en-titre/
+00:45:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/boutique-en-ligne-ebay-google-shopping-facebook-boostez-votre-visibilite-et-vos-ventes-en-quelques-clics/linkid.js (from https://www.weezbe.com/blog/boutique-en-ligne-ebay-google-shopping-facebook-boostez-votre-visibilite-et-vos-ventes-en-quelques-clics/)
+00:45:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2028
+00:45:34	Warning: 	File has moved from https://www.weezbe.com/?p=2028 to https://www.weezbe.com/blog/boutique-en-ligne-ebay-google-shopping-facebook-boostez-votre-visibilite-et-vos-ventes-en-quelques-clics/
+00:45:40	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/comparateur-de-prix-e-commerce/linkid.js (from https://www.weezbe.com/blog/comparateur-de-prix-e-commerce/)
+00:45:41	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1182
+00:45:41	Warning: 	File has moved from https://www.weezbe.com/?p=1182 to https://www.weezbe.com/blog/comparateur-de-prix-e-commerce/
+00:45:45	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/kelkoo/linkid.js (from https://www.weezbe.com/blog/tag/kelkoo/)
+00:45:46	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/leguide-com/linkid.js (from https://www.weezbe.com/blog/tag/leguide-com/)
+00:45:46	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/shopping-com/linkid.js (from https://www.weezbe.com/blog/tag/shopping-com/)
+00:45:46	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/5-conseils-pour-ameliorer-la-confiance-de-vos-visiteurs/linkid.js (from https://www.weezbe.com/blog/5-conseils-pour-ameliorer-la-confiance-de-vos-visiteurs/)
+00:45:46	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5117
+00:45:46	Warning: 	File has moved from https://www.weezbe.com/?p=5117 to https://www.weezbe.com/blog/5-conseils-pour-ameliorer-la-confiance-de-vos-visiteurs/
+00:45:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/conseil/linkid.js (from https://www.weezbe.com/blog/tag/conseil/)
+00:45:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/taux-rebond-kesako/linkid.js (from https://www.weezbe.com/blog/taux-rebond-kesako/)
+00:45:49	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4630
+00:45:49	Warning: 	File has moved from https://www.weezbe.com/?p=4630 to https://www.weezbe.com/blog/taux-rebond-kesako/
+00:45:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/ameliorer/linkid.js (from https://www.weezbe.com/blog/tag/ameliorer/)
+00:45:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/taux-de-rebond/linkid.js (from https://www.weezbe.com/blog/tag/taux-de-rebond/)
+00:45:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/comment-valoriser-produits-ecommerce/linkid.js (from https://www.weezbe.com/blog/comment-valoriser-produits-ecommerce/)
+00:45:50	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4571
+00:45:50	Warning: 	File has moved from https://www.weezbe.com/?p=4571 to https://www.weezbe.com/blog/comment-valoriser-produits-ecommerce/
+00:45:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/affichage/linkid.js (from https://www.weezbe.com/blog/tag/affichage/)
+00:45:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/produits/linkid.js (from https://www.weezbe.com/blog/tag/produits/)
+00:45:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/promotion/linkid.js (from https://www.weezbe.com/blog/tag/promotion/)
+00:45:50	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/je-vous-previens-vous-allez-etre-pris-en-flag/linkid.js (from https://www.weezbe.com/blog/je-vous-previens-vous-allez-etre-pris-en-flag/)
+00:45:50	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3593
+00:45:50	Warning: 	File has moved from https://www.weezbe.com/?p=3593 to https://www.weezbe.com/blog/je-vous-previens-vous-allez-etre-pris-en-flag/
+00:45:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles/linkid.js (from https://www.weezbe.com/blog/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles/)
+00:45:53	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2137
+00:45:53	Warning: 	File has moved from https://www.weezbe.com/?p=2137 to https://www.weezbe.com/blog/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles/
+00:45:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/eboulette-de-romuald/page/2/linkid.js (from https://www.weezbe.com/blog/category/eboulette-de-romuald/page/2/)
+00:46:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-degote-un-backlink-lien-entrant-genial-sur-un-gouv-pr8-le-lien-est-en-nofollow/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-degote-un-backlink-lien-entrant-genial-sur-un-gouv-pr8-le-lien-est-en-nofollow/)
+00:46:00	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3978
+00:46:00	Warning: 	File has moved from https://www.weezbe.com/?p=3978 to https://www.weezbe.com/blog/aujourdhui-romuald-a-degote-un-backlink-lien-entrant-genial-sur-un-gouv-pr8-le-lien-est-en-nofollow/
+00:46:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-un-superbe-image-de-fond-pour-preparer-les-soldes-elle-fait-10mo/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-un-superbe-image-de-fond-pour-preparer-les-soldes-elle-fait-10mo/)
+00:46:04	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3877
+00:46:04	Warning: 	File has moved from https://www.weezbe.com/?p=3877 to https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-un-superbe-image-de-fond-pour-preparer-les-soldes-elle-fait-10mo/
+00:46:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/decouvrez-une-nouvelle-rubrique-satirique-les-e-boulettes-de-romuald/linkid.js (from https://www.weezbe.com/blog/decouvrez-une-nouvelle-rubrique-satirique-les-e-boulettes-de-romuald/)
+00:46:05	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1945
+00:46:05	Warning: 	File has moved from https://www.weezbe.com/?p=1945 to https://www.weezbe.com/blog/decouvrez-une-nouvelle-rubrique-satirique-les-e-boulettes-de-romuald/
+00:46:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sur-adwords-en-bretagne-profitez-du-soleil-et-achetez-des-tongs/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sur-adwords-en-bretagne-profitez-du-soleil-et-achetez-des-tongs/)
+00:46:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3833
+00:46:11	Warning: 	File has moved from https://www.weezbe.com/?p=3833 to https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sur-adwords-en-bretagne-profitez-du-soleil-et-achetez-des-tongs/
+00:46:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-utilise-des-images-3030-pour-ses-produits-il-est-philateliste/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-utilise-des-images-3030-pour-ses-produits-il-est-philateliste/)
+00:46:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3574
+00:46:11	Warning: 	File has moved from https://www.weezbe.com/?p=3574 to https://www.weezbe.com/blog/aujourdhui-romuald-a-utilise-des-images-3030-pour-ses-produits-il-est-philateliste/
+00:46:12	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-hierarchise-son-catalogue-avec-4-sous-niveaux-de-categorie/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-hierarchise-son-catalogue-avec-4-sous-niveaux-de-categorie/)
+00:46:12	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3529
+00:46:12	Warning: 	File has moved from https://www.weezbe.com/?p=3529 to https://www.weezbe.com/blog/aujourdhui-romuald-a-hierarchise-son-catalogue-avec-4-sous-niveaux-de-categorie/
+00:46:17	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/2/linkid.js (from https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/2/)
+00:46:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/mondial-relay/linkid.js (from https://www.weezbe.com/blog/mondial-relay/)
+00:46:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5892
+00:46:34	Warning: 	File has moved from https://www.weezbe.com/?p=5892 to https://www.weezbe.com/blog/mondial-relay/
+00:46:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/module-export/linkid.js (from https://www.weezbe.com/blog/tag/module-export/)
+00:46:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/points-relais/linkid.js (from https://www.weezbe.com/blog/tag/points-relais/)
+00:46:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/transporteur/linkid.js (from https://www.weezbe.com/blog/tag/transporteur/)
+00:46:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/relation-client-e-commerce/linkid.js (from https://www.weezbe.com/blog/relation-client-e-commerce/)
+00:46:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5172
+00:46:34	Warning: 	File has moved from https://www.weezbe.com/?p=5172 to https://www.weezbe.com/blog/relation-client-e-commerce/
+00:46:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/e-commerce/linkid.js (from https://www.weezbe.com/blog/tag/e-commerce/)
+00:46:47	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/relation-client/linkid.js (from https://www.weezbe.com/blog/tag/relation-client/)
+00:46:47	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/reseaux-sociaux/linkid.js (from https://www.weezbe.com/blog/tag/reseaux-sociaux/)
+00:46:47	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/solution-de-click-to-chat-choisir-e-commerce/linkid.js (from https://www.weezbe.com/blog/solution-de-click-to-chat-choisir-e-commerce/)
+00:46:47	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5415
+00:46:47	Warning: 	File has moved from https://www.weezbe.com/?p=5415 to https://www.weezbe.com/blog/solution-de-click-to-chat-choisir-e-commerce/
+00:46:47	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/taux-de-conversion/linkid.js (from https://www.weezbe.com/blog/tag/taux-de-conversion/)
+00:46:47	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/e-mailing/page/2/linkid.js (from https://www.weezbe.com/blog/category/e-mailing/page/2/)
+00:46:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-minuit-quel-bucheur/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-minuit-quel-bucheur/)
+00:46:48	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4088
+00:46:48	Warning: 	File has moved from https://www.weezbe.com/?p=4088 to https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-minuit-quel-bucheur/
+00:46:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-fernand-90-ans-pour-lui-presenter-la-nouvelle-tong-a-diamant-rose/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-fernand-90-ans-pour-lui-presenter-la-nouvelle-tong-a-diamant-rose/)
+00:46:48	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3485
+00:46:48	Warning: 	File has moved from https://www.weezbe.com/?p=3485 to https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-mailing-a-fernand-90-ans-pour-lui-presenter-la-nouvelle-tong-a-diamant-rose/
+00:46:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-lance-une-grosse-campagne-promotionnelle-par-e-mail-125-sur-toutes-les-tongs/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-lance-une-grosse-campagne-promotionnelle-par-e-mail-125-sur-toutes-les-tongs/)
+00:46:48	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3477
+00:46:48	Warning: 	File has moved from https://www.weezbe.com/?p=3477 to https://www.weezbe.com/blog/aujourdhui-romuald-a-lance-une-grosse-campagne-promotionnelle-par-e-mail-125-sur-toutes-les-tongs/
+00:46:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-7eme-newsletter-de-la-semaine-on-est-mardi/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-7eme-newsletter-de-la-semaine-on-est-mardi/)
+00:46:48	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3209
+00:46:48	Warning: 	File has moved from https://www.weezbe.com/?p=3209 to https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-sa-7eme-newsletter-de-la-semaine-on-est-mardi/
+00:46:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/ergonomie/page/2/linkid.js (from https://www.weezbe.com/blog/category/ergonomie/page/2/)
+00:46:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/quels-sont-les-raisons-dun-abandon-de-panier/linkid.js (from https://www.weezbe.com/blog/quels-sont-les-raisons-dun-abandon-de-panier/)
+00:46:53	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4561
+00:46:53	Warning: 	File has moved from https://www.weezbe.com/?p=4561 to https://www.weezbe.com/blog/quels-sont-les-raisons-dun-abandon-de-panier/
+00:46:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/abandon-de-panier/linkid.js (from https://www.weezbe.com/blog/tag/abandon-de-panier/)
+00:46:53	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/etude/linkid.js (from https://www.weezbe.com/blog/tag/etude/)
+00:46:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/fevad/linkid.js (from https://www.weezbe.com/blog/tag/fevad/)
+00:46:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/5-conseils-pour-optimiser-votre-checkout/linkid.js (from https://www.weezbe.com/blog/5-conseils-pour-optimiser-votre-checkout/)
+00:46:54	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4556
+00:46:54	Warning: 	File has moved from https://www.weezbe.com/?p=4556 to https://www.weezbe.com/blog/5-conseils-pour-optimiser-votre-checkout/
+00:46:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/conseils/linkid.js (from https://www.weezbe.com/blog/tag/conseils/)
+00:46:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/optimiser/linkid.js (from https://www.weezbe.com/blog/tag/optimiser/)
+00:46:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/comment-design-de-collection-facilite-la-navigation-de-ses-visiteurs/linkid.js (from https://www.weezbe.com/blog/comment-design-de-collection-facilite-la-navigation-de-ses-visiteurs/)
+00:46:54	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3224
+00:46:54	Warning: 	File has moved from https://www.weezbe.com/?p=3224 to https://www.weezbe.com/blog/comment-design-de-collection-facilite-la-navigation-de-ses-visiteurs/
+00:46:56	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-une-description-courte-de-9999-mots/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-une-description-courte-de-9999-mots/)
+00:46:57	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3107
+00:46:57	Warning: 	File has moved from https://www.weezbe.com/?p=3107 to https://www.weezbe.com/blog/aujourdhui-romuald-a-cree-une-description-courte-de-9999-mots/
+00:46:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/comment-passer-a-un-menu-plus-design-plus-lisible-et-plus-commercial/linkid.js (from https://www.weezbe.com/blog/comment-passer-a-un-menu-plus-design-plus-lisible-et-plus-commercial/)
+00:46:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2101
+00:46:59	Warning: 	File has moved from https://www.weezbe.com/?p=2101 to https://www.weezbe.com/blog/comment-passer-a-un-menu-plus-design-plus-lisible-et-plus-commercial/
+00:47:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/pinterest-et-votre-boutique-weezbe/linkid.js (from https://www.weezbe.com/blog/pinterest-et-votre-boutique-weezbe/)
+00:47:02	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4498
+00:47:02	Warning: 	File has moved from https://www.weezbe.com/?p=4498 to https://www.weezbe.com/blog/pinterest-et-votre-boutique-weezbe/
+00:47:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/pinterest/linkid.js (from https://www.weezbe.com/blog/tag/pinterest/)
+00:47:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/manga-ink-je-suis-fan-et-vous/linkid.js (from https://www.weezbe.com/blog/manga-ink-je-suis-fan-et-vous/)
+00:47:02	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3253
+00:47:02	Warning: 	File has moved from https://www.weezbe.com/?p=3253 to https://www.weezbe.com/blog/manga-ink-je-suis-fan-et-vous/
+00:47:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-passe-le-cap-des-300-tweets-plus-que-109-fiches-produits-ouf/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-passe-le-cap-des-300-tweets-plus-que-109-fiches-produits-ouf/)
+00:47:05	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3241
+00:47:05	Warning: 	File has moved from https://www.weezbe.com/?p=3241 to https://www.weezbe.com/blog/aujourdhui-romuald-a-passe-le-cap-des-300-tweets-plus-que-109-fiches-produits-ouf/
+00:47:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-supprime-les-avis-de-consommateurs-car-ils-ne-sont-jamais-content/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-supprime-les-avis-de-consommateurs-car-ils-ne-sont-jamais-content/)
+00:47:05	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3022
+00:47:05	Warning: 	File has moved from https://www.weezbe.com/?p=3022 to https://www.weezbe.com/blog/aujourdhui-romuald-a-supprime-les-avis-de-consommateurs-car-ils-ne-sont-jamais-content/
+00:47:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/boulette-ecommerce/linkid.js (from https://www.weezbe.com/blog/tag/boulette-ecommerce/)
+00:47:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/eboulette/linkid.js (from https://www.weezbe.com/blog/tag/eboulette/)
+00:47:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sa-campagne-adwords-francaise-en-chine/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sa-campagne-adwords-francaise-en-chine/)
+00:47:08	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3424
+00:47:08	Warning: 	File has moved from https://www.weezbe.com/?p=3424 to https://www.weezbe.com/blog/aujourdhui-romuald-a-diffuse-sa-campagne-adwords-francaise-en-chine/
+00:47:08	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-essaye-adwords-avec-2e-histoire-de-commencer/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-essaye-adwords-avec-2e-histoire-de-commencer/)
+00:47:08	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3028
+00:47:08	Warning: 	File has moved from https://www.weezbe.com/?p=3028 to https://www.weezbe.com/blog/aujourdhui-romuald-a-essaye-adwords-avec-2e-histoire-de-commencer/
+00:47:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/page/2/linkid.js (from https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/page/2/)
+00:47:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/blog-cest-bien-ecrire/linkid.js (from https://www.weezbe.com/blog/blog-cest-bien-ecrire/)
+00:47:13	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4637
+00:47:13	Warning: 	File has moved from https://www.weezbe.com/?p=4637 to https://www.weezbe.com/blog/blog-cest-bien-ecrire/
+00:47:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/bien-ecrire/linkid.js (from https://www.weezbe.com/blog/tag/bien-ecrire/)
+00:47:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/blog/linkid.js (from https://www.weezbe.com/blog/tag/blog/)
+00:47:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/redaction/linkid.js (from https://www.weezbe.com/blog/tag/redaction/)
+00:47:13	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/votre-site-facebook-et-votre-blog-le-triangle-parfait/linkid.js (from https://www.weezbe.com/blog/votre-site-facebook-et-votre-blog-le-triangle-parfait/)
+00:47:14	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4588
+00:47:14	Warning: 	File has moved from https://www.weezbe.com/?p=4588 to https://www.weezbe.com/blog/votre-site-facebook-et-votre-blog-le-triangle-parfait/
+00:47:14	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/communication/linkid.js (from https://www.weezbe.com/blog/tag/communication/)
+00:47:14	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/facebook/linkid.js (from https://www.weezbe.com/blog/tag/facebook/)
+00:47:14	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/reseau-social/linkid.js (from https://www.weezbe.com/blog/tag/reseau-social/)
+00:47:14	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/triangle/linkid.js (from https://www.weezbe.com/blog/tag/triangle/)
+00:47:14	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/vous-cherchez-un-bijou-une-pierre-ou-un-mineral-trouvez-le-chez-a-bijoux/linkid.js (from https://www.weezbe.com/blog/vous-cherchez-un-bijou-une-pierre-ou-un-mineral-trouvez-le-chez-a-bijoux/)
+00:47:14	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3460
+00:47:14	Warning: 	File has moved from https://www.weezbe.com/?p=3460 to https://www.weezbe.com/blog/vous-cherchez-un-bijou-une-pierre-ou-un-mineral-trouvez-le-chez-a-bijoux/
+00:47:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/tutoriel-weezbe/page/2/linkid.js (from https://www.weezbe.com/blog/category/tutoriel-weezbe/page/2/)
+00:47:15	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/activer-suivi-commerce-electronique-boutique-weezbe/linkid.js (from https://www.weezbe.com/blog/activer-suivi-commerce-electronique-boutique-weezbe/)
+00:47:15	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5062
+00:47:15	Warning: 	File has moved from https://www.weezbe.com/?p=5062 to https://www.weezbe.com/blog/activer-suivi-commerce-electronique-boutique-weezbe/
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/analytics/linkid.js (from https://www.weezbe.com/blog/tag/analytics/)
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/panier-moyen/linkid.js (from https://www.weezbe.com/blog/tag/panier-moyen/)
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reapprovisionnez-les-produits-les-plus-demandes-en-temps-reel/linkid.js (from https://www.weezbe.com/blog/reapprovisionnez-les-produits-les-plus-demandes-en-temps-reel/)
+00:47:16	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4845
+00:47:16	Warning: 	File has moved from https://www.weezbe.com/?p=4845 to https://www.weezbe.com/blog/reapprovisionnez-les-produits-les-plus-demandes-en-temps-reel/
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/gestion-des-stocks/linkid.js (from https://www.weezbe.com/blog/tag/gestion-des-stocks/)
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/ajouter-des-logos-sur-vos-modes-de-livraison/linkid.js (from https://www.weezbe.com/blog/ajouter-des-logos-sur-vos-modes-de-livraison/)
+00:47:16	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4787
+00:47:16	Warning: 	File has moved from https://www.weezbe.com/?p=4787 to https://www.weezbe.com/blog/ajouter-des-logos-sur-vos-modes-de-livraison/
+00:47:16	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/parcours-dachat/linkid.js (from https://www.weezbe.com/blog/tag/parcours-dachat/)
+00:47:17	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/page/4/linkid.js (from https://www.weezbe.com/blog/page/4/)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/comparateurs-marketplaces/g.gif (from https://stats.wp.com/e-201839.js)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/comparateurs-marketplaces/c.gif (from https://stats.wp.com/e-201839.js)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/comparateurs-marketplaces/t.gif (from https://stats.wp.com/e-201839.js)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/quel-mode-de-livraison-transporteur-choisir-so-colissimo-ups-kiala/linkid.js (from https://www.weezbe.com/blog/quel-mode-de-livraison-transporteur-choisir-so-colissimo-ups-kiala/)
+00:47:18	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3908
+00:47:18	Warning: 	File has moved from https://www.weezbe.com/?p=3908 to https://www.weezbe.com/blog/quel-mode-de-livraison-transporteur-choisir-so-colissimo-ups-kiala/
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/choix-du-bon-partenaire-logistique/linkid.js (from https://www.weezbe.com/blog/choix-du-bon-partenaire-logistique/)
+00:47:18	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4655
+00:47:18	Warning: 	File has moved from https://www.weezbe.com/?p=4655 to https://www.weezbe.com/blog/choix-du-bon-partenaire-logistique/
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/expeditor-inet/linkid.js (from https://www.weezbe.com/blog/expeditor-inet/)
+00:47:18	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4488
+00:47:18	Warning: 	File has moved from https://www.weezbe.com/?p=4488 to https://www.weezbe.com/blog/expeditor-inet/
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/expeditor-i-net/linkid.js (from https://www.weezbe.com/blog/tag/expeditor-i-net/)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/gestion-des-commandes/linkid.js (from https://www.weezbe.com/blog/tag/gestion-des-commandes/)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/pour-nos-e-commercants-belges-pensez-au-module-bpost/linkid.js (from https://www.weezbe.com/blog/pour-nos-e-commercants-belges-pensez-au-module-bpost/)
+00:47:18	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4605
+00:47:18	Warning: 	File has moved from https://www.weezbe.com/?p=4605 to https://www.weezbe.com/blog/pour-nos-e-commercants-belges-pensez-au-module-bpost/
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/bpost/linkid.js (from https://www.weezbe.com/blog/tag/bpost/)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/shipping-manager/linkid.js (from https://www.weezbe.com/blog/tag/shipping-manager/)
+00:47:18	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/referencement-naturel-boutique-e-commerce/linkid.js (from https://www.weezbe.com/blog/referencement-naturel-boutique-e-commerce/)
+00:47:18	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1097
+00:47:18	Warning: 	File has moved from https://www.weezbe.com/?p=1097 to https://www.weezbe.com/blog/referencement-naturel-boutique-e-commerce/
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/3/linkid.js (from https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/3/)
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/votre-boutique-aux-couleurs-de-noel/linkid.js (from https://www.weezbe.com/blog/votre-boutique-aux-couleurs-de-noel/)
+00:47:23	Warning: 	Moved Permanently for https://www.weezbe.com/?p=5380
+00:47:23	Warning: 	File has moved from https://www.weezbe.com/?p=5380 to https://www.weezbe.com/blog/votre-boutique-aux-couleurs-de-noel/
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/2/g.gif (from https://stats.wp.com/e-201843.js)
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/2/c.gif (from https://stats.wp.com/e-201843.js)
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/2/t.gif (from https://stats.wp.com/e-201843.js)
+00:47:23	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/5-questions/linkid.js (from https://www.weezbe.com/blog/5-questions/)
+00:47:24	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4464
+00:47:24	Warning: 	File has moved from https://www.weezbe.com/?p=4464 to https://www.weezbe.com/blog/5-questions/
+00:47:24	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tirage-au-sort-du-jeu-concours/linkid.js (from https://www.weezbe.com/blog/tirage-au-sort-du-jeu-concours/)
+00:47:24	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4425
+00:47:24	Warning: 	File has moved from https://www.weezbe.com/?p=4425 to https://www.weezbe.com/blog/tirage-au-sort-du-jeu-concours/
+00:47:24	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/creation-sites-e-commerce-2009/linkid.js (from https://www.weezbe.com/blog/creation-sites-e-commerce-2009/)
+00:47:24	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1303
+00:47:24	Warning: 	File has moved from https://www.weezbe.com/?p=1303 to https://www.weezbe.com/blog/creation-sites-e-commerce-2009/
+00:47:27	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/chiffres-cles/linkid.js (from https://www.weezbe.com/blog/tag/chiffres-cles/)
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/toute-lequipe-weezbe-vous-souhaite-une-excellente-annee-2010/linkid.js (from https://www.weezbe.com/blog/toute-lequipe-weezbe-vous-souhaite-une-excellente-annee-2010/)
+00:47:32	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1249
+00:47:32	Warning: 	File has moved from https://www.weezbe.com/?p=1249 to https://www.weezbe.com/blog/toute-lequipe-weezbe-vous-souhaite-une-excellente-annee-2010/
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/boutiques-en-ligne-creees/linkid.js (from https://www.weezbe.com/blog/boutiques-en-ligne-creees/)
+00:47:32	Warning: 	Moved Permanently for https://www.weezbe.com/?p=885
+00:47:32	Warning: 	File has moved from https://www.weezbe.com/?p=885 to https://www.weezbe.com/blog/boutiques-en-ligne-creees/
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/creation-de-boutique-en-ligne/linkid.js (from https://www.weezbe.com/blog/tag/creation-de-boutique-en-ligne/)
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/creer-un-site-e-commerce/linkid.js (from https://www.weezbe.com/blog/tag/creer-un-site-e-commerce/)
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/creer-une-boutique-en-ligne-avec-un-fort-taux-de-transformation/linkid.js (from https://www.weezbe.com/blog/creer-une-boutique-en-ligne-avec-un-fort-taux-de-transformation/)
+00:47:32	Warning: 	Moved Permanently for https://www.weezbe.com/?p=462
+00:47:32	Warning: 	File has moved from https://www.weezbe.com/?p=462 to https://www.weezbe.com/blog/creer-une-boutique-en-ligne-avec-un-fort-taux-de-transformation/
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/design/linkid.js (from https://www.weezbe.com/blog/tag/design/)
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/watcheezy/linkid.js (from https://www.weezbe.com/blog/watcheezy/)
+00:47:32	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4864
+00:47:32	Warning: 	File has moved from https://www.weezbe.com/?p=4864 to https://www.weezbe.com/blog/watcheezy/
+00:47:32	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/crm/linkid.js (from https://www.weezbe.com/blog/tag/crm/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/logiciel-site-e-commerce-saas/linkid.js (from https://www.weezbe.com/blog/logiciel-site-e-commerce-saas/)
+00:47:33	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1264
+00:47:33	Warning: 	File has moved from https://www.weezbe.com/?p=1264 to https://www.weezbe.com/blog/logiciel-site-e-commerce-saas/
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/firefox/linkid.js (from https://www.weezbe.com/blog/tag/firefox/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/internet-explorer/linkid.js (from https://www.weezbe.com/blog/tag/internet-explorer/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/logiciel-e-commerce/linkid.js (from https://www.weezbe.com/blog/tag/logiciel-e-commerce/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/navigateur/linkid.js (from https://www.weezbe.com/blog/tag/navigateur/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/saas/linkid.js (from https://www.weezbe.com/blog/tag/saas/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/page/3/linkid.js (from https://www.weezbe.com/blog/category/exemples-boutiques-weezbe-references/page/3/)
+00:47:33	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/maki-nature-la-boutique-reference-du-papier-recycle-et-scrapbooking/linkid.js (from https://www.weezbe.com/blog/maki-nature-la-boutique-reference-du-papier-recycle-et-scrapbooking/)
+00:47:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3498
+00:47:34	Warning: 	File has moved from https://www.weezbe.com/?p=3498 to https://www.weezbe.com/blog/maki-nature-la-boutique-reference-du-papier-recycle-et-scrapbooking/
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/quelques-chiffres-commerce-en-france/linkid.js (from https://www.weezbe.com/blog/quelques-chiffres-commerce-en-france/)
+00:47:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4665
+00:47:34	Warning: 	File has moved from https://www.weezbe.com/?p=4665 to https://www.weezbe.com/blog/quelques-chiffres-commerce-en-france/
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/chiffres/linkid.js (from https://www.weezbe.com/blog/tag/chiffres/)
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/resume/linkid.js (from https://www.weezbe.com/blog/tag/resume/)
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/encore-plus-de-performances/linkid.js (from https://www.weezbe.com/blog/encore-plus-de-performances/)
+00:47:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4915
+00:47:34	Warning: 	File has moved from https://www.weezbe.com/?p=4915 to https://www.weezbe.com/blog/encore-plus-de-performances/
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/css/linkid.js (from https://www.weezbe.com/blog/tag/css/)
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/referencement-naturel/linkid.js (from https://www.weezbe.com/blog/tag/referencement-naturel/)
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/quest-ce-qui-influence-lacheteur-potentiel-sur-votre-site/linkid.js (from https://www.weezbe.com/blog/quest-ce-qui-influence-lacheteur-potentiel-sur-votre-site/)
+00:47:34	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4528
+00:47:34	Warning: 	File has moved from https://www.weezbe.com/?p=4528 to https://www.weezbe.com/blog/quest-ce-qui-influence-lacheteur-potentiel-sur-votre-site/
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/achat/linkid.js (from https://www.weezbe.com/blog/tag/achat/)
+00:47:34	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/influencer/linkid.js (from https://www.weezbe.com/blog/tag/influencer/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/les-raisons-pour-lesquelles-quitte-rapidement-votre-site/linkid.js (from https://www.weezbe.com/blog/les-raisons-pour-lesquelles-quitte-rapidement-votre-site/)
+00:47:35	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4732
+00:47:35	Warning: 	File has moved from https://www.weezbe.com/?p=4732 to https://www.weezbe.com/blog/les-raisons-pour-lesquelles-quitte-rapidement-votre-site/
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/quelques-astuces-pour-rassurer-vos-visiteurs/linkid.js (from https://www.weezbe.com/blog/quelques-astuces-pour-rassurer-vos-visiteurs/)
+00:47:35	Warning: 	Moved Permanently for https://www.weezbe.com/?p=35
+00:47:35	Warning: 	File has moved from https://www.weezbe.com/?p=35 to https://www.weezbe.com/blog/quelques-astuces-pour-rassurer-vos-visiteurs/
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/visiteurs/linkid.js (from https://www.weezbe.com/blog/tag/visiteurs/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/comparateur-de-prix-5-avantages-dy-etre-present/linkid.js (from https://www.weezbe.com/blog/comparateur-de-prix-5-avantages-dy-etre-present/)
+00:47:35	Warning: 	Moved Permanently for https://www.weezbe.com/?p=539
+00:47:35	Warning: 	File has moved from https://www.weezbe.com/?p=539 to https://www.weezbe.com/blog/comparateur-de-prix-5-avantages-dy-etre-present/
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/cherchons-com/linkid.js (from https://www.weezbe.com/blog/tag/cherchons-com/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/ciao/linkid.js (from https://www.weezbe.com/blog/tag/ciao/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/pricerunner/linkid.js (from https://www.weezbe.com/blog/tag/pricerunner/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/twenga/linkid.js (from https://www.weezbe.com/blog/tag/twenga/)
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/referencement-google-fil-d-ariane/linkid.js (from https://www.weezbe.com/blog/referencement-google-fil-d-ariane/)
+00:47:35	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1115
+00:47:35	Warning: 	File has moved from https://www.weezbe.com/?p=1115 to https://www.weezbe.com/blog/referencement-google-fil-d-ariane/
+00:47:35	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/barre-de-navigation/linkid.js (from https://www.weezbe.com/blog/tag/barre-de-navigation/)
+00:47:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/fil-dariane/linkid.js (from https://www.weezbe.com/blog/tag/fil-dariane/)
+00:47:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/bing/linkid.js (from https://www.weezbe.com/blog/tag/bing/)
+00:47:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/qwant/linkid.js (from https://www.weezbe.com/blog/tag/qwant/)
+00:47:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/beaute-premier-la-beaute-naturelle/linkid.js (from https://www.weezbe.com/blog/beaute-premier-la-beaute-naturelle/)
+00:47:36	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3443
+00:47:36	Warning: 	File has moved from https://www.weezbe.com/?p=3443 to https://www.weezbe.com/blog/beaute-premier-la-beaute-naturelle/
+00:47:36	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/personnalisez-design-boutique-feuilles-style-css/linkid.js (from https://www.weezbe.com/blog/personnalisez-design-boutique-feuilles-style-css/)
+00:47:36	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1983
+00:47:36	Warning: 	File has moved from https://www.weezbe.com/?p=1983 to https://www.weezbe.com/blog/personnalisez-design-boutique-feuilles-style-css/
+00:47:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/grand-succes-pour-la-1ere-edition-du-salon-e-connecsud/linkid.js (from https://www.weezbe.com/blog/grand-succes-pour-la-1ere-edition-du-salon-e-connecsud/)
+00:47:44	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2081
+00:47:44	Warning: 	File has moved from https://www.weezbe.com/?p=2081 to https://www.weezbe.com/blog/grand-succes-pour-la-1ere-edition-du-salon-e-connecsud/
+00:47:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/fiche-produit-optimiser-referencement/linkid.js (from https://www.weezbe.com/blog/fiche-produit-optimiser-referencement/)
+00:47:44	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1118
+00:47:44	Warning: 	File has moved from https://www.weezbe.com/?p=1118 to https://www.weezbe.com/blog/fiche-produit-optimiser-referencement/
+00:47:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/weezbe-version-1-9/linkid.js (from https://www.weezbe.com/blog/weezbe-version-1-9/)
+00:47:44	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1212
+00:47:44	Warning: 	File has moved from https://www.weezbe.com/?p=1212 to https://www.weezbe.com/blog/weezbe-version-1-9/
+00:47:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/comparateur/linkid.js (from https://www.weezbe.com/blog/tag/comparateur/)
+00:47:44	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-balise-face-a-tous-ces-a-remplir-sur-son-site/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-balise-face-a-tous-ces-a-remplir-sur-son-site/)
+00:47:45	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3385
+00:47:45	Warning: 	File has moved from https://www.weezbe.com/?p=3385 to https://www.weezbe.com/blog/aujourdhui-romuald-a-balise-face-a-tous-ces-a-remplir-sur-son-site/
+00:47:45	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/lancer-son-site/linkid.js (from https://www.weezbe.com/blog/tag/lancer-son-site/)
+00:47:45	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/quitter/linkid.js (from https://www.weezbe.com/blog/tag/quitter/)
+00:47:45	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/video-60-chrono-pour-creer-et-envoyer-sa-newsletter/linkid.js (from https://www.weezbe.com/blog/video-60-chrono-pour-creer-et-envoyer-sa-newsletter/)
+00:47:45	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3767
+00:47:45	Warning: 	File has moved from https://www.weezbe.com/?p=3767 to https://www.weezbe.com/blog/video-60-chrono-pour-creer-et-envoyer-sa-newsletter/
+00:47:45	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/linkid.js (from https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/)
+00:47:45	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2185
+00:47:45	Warning: 	File has moved from https://www.weezbe.com/?p=2185 to https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/
+00:47:48	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/apercu-rapide/linkid.js (from https://www.weezbe.com/blog/apercu-rapide/)
+00:47:48	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2129
+00:47:48	Warning: 	File has moved from https://www.weezbe.com/?p=2129 to https://www.weezbe.com/blog/apercu-rapide/
+00:47:48	Warning: 	Moved Permanently for https://www.weezbe.com/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles/
+00:47:48	Warning: 	File has moved from https://www.weezbe.com/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles/ to https://www.weezbe.com/blog/augmentez-votre-panier-moyen-avec-les-ventes-additionnelles//
+00:47:49	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/eboulette-de-romuald/page/3/linkid.js (from https://www.weezbe.com/blog/category/eboulette-de-romuald/page/3/)
+00:47:51	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/soldes-2012-415-dachats-chez-les-e-commercants-weezbe/linkid.js (from https://www.weezbe.com/blog/soldes-2012-415-dachats-chez-les-e-commercants-weezbe/)
+00:47:51	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3945
+00:47:51	Warning: 	File has moved from https://www.weezbe.com/?p=3945 to https://www.weezbe.com/blog/soldes-2012-415-dachats-chez-les-e-commercants-weezbe/
+00:47:51	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/configurez-votre-boutique-multilingue-correctement/linkid.js (from https://www.weezbe.com/blog/configurez-votre-boutique-multilingue-correctement/)
+00:47:51	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4015
+00:47:51	Warning: 	File has moved from https://www.weezbe.com/?p=4015 to https://www.weezbe.com/blog/configurez-votre-boutique-multilingue-correctement/
+00:47:51	Warning: 	Moved Permanently for www.weezbe.com/blog/critique-de-site-sortez-en-slip-on-ne-vous-dira-rien-forbikeshop-net/
+00:47:51	Warning: 	Redirected link is identical because of 'URL Hack' option: www.weezbe.com/blog/critique-de-site-sortez-en-slip-on-ne-vous-dira-rien-forbikeshop-net/ and https://www.weezbe.com/blog/critique-de-site-sortez-en-slip-on-ne-vous-dira-rien-forbikeshop-net/
+00:47:51	Warning: 	File has moved from www.weezbe.com/blog/critique-de-site-sortez-en-slip-on-ne-vous-dira-rien-forbikeshop-net/ to https://www.weezbe.com/blog/critique-de-site-sortez-en-slip-on-ne-vous-dira-rien-forbikeshop-net/
+00:47:51	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/pourquoi-integrer-sur-sa-boutique-le-nouveau-mode-de-paiement-kwixo/linkid.js (from https://www.weezbe.com/blog/pourquoi-integrer-sur-sa-boutique-le-nouveau-mode-de-paiement-kwixo/)
+00:47:51	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2884
+00:47:51	Warning: 	File has moved from https://www.weezbe.com/?p=2884 to https://www.weezbe.com/blog/pourquoi-integrer-sur-sa-boutique-le-nouveau-mode-de-paiement-kwixo/
+00:47:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-ses-newsletters-depuis-chaud-lapin-du-34caramail-com/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-ses-newsletters-depuis-chaud-lapin-du-34caramail-com/)
+00:47:54	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2982
+00:47:54	Warning: 	File has moved from https://www.weezbe.com/?p=2982 to https://www.weezbe.com/blog/aujourdhui-romuald-a-envoye-ses-newsletters-depuis-chaud-lapin-du-34caramail-com/
+00:47:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/romuald/linkid.js (from https://www.weezbe.com/blog/tag/romuald/)
+00:47:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-pris-ses-photos-produits-sur-la-plage-avec-les-coquillages-cest-chouette/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-pris-ses-photos-produits-sur-la-plage-avec-les-coquillages-cest-chouette/)
+00:47:54	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3351
+00:47:54	Warning: 	File has moved from https://www.weezbe.com/?p=3351 to https://www.weezbe.com/blog/aujourdhui-romuald-a-pris-ses-photos-produits-sur-la-plage-avec-les-coquillages-cest-chouette/
+00:47:54	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/e-connecsud-2012-2eme-edition-du-salon-e-commerce-made-in-languedoc-roussillon-econnecsud/linkid.js (from https://www.weezbe.com/blog/e-connecsud-2012-2eme-edition-du-salon-e-commerce-made-in-languedoc-roussillon-econnecsud/)
+00:47:54	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3511
+00:47:54	Warning: 	File has moved from https://www.weezbe.com/?p=3511 to https://www.weezbe.com/blog/e-connecsud-2012-2eme-edition-du-salon-e-commerce-made-in-languedoc-roussillon-econnecsud/
+00:47:58	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/3/linkid.js (from https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/3/)
+00:47:58	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/loi-hamon-ce-va-changer-en-juin-2014/linkid.js (from https://www.weezbe.com/blog/loi-hamon-ce-va-changer-en-juin-2014/)
+00:47:58	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4703
+00:47:58	Warning: 	File has moved from https://www.weezbe.com/?p=4703 to https://www.weezbe.com/blog/loi-hamon-ce-va-changer-en-juin-2014/
+00:47:58	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/directive-europenne/linkid.js (from https://www.weezbe.com/blog/tag/directive-europenne/)
+00:47:58	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/droit-des-consommateurs/linkid.js (from https://www.weezbe.com/blog/tag/droit-des-consommateurs/)
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/loi-hamon/linkid.js (from https://www.weezbe.com/blog/tag/loi-hamon/)
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/commerce-loi-les-elements-essentiels-ajouter-site/linkid.js (from https://www.weezbe.com/blog/commerce-loi-les-elements-essentiels-ajouter-site/)
+00:47:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4693
+00:47:59	Warning: 	File has moved from https://www.weezbe.com/?p=4693 to https://www.weezbe.com/blog/commerce-loi-les-elements-essentiels-ajouter-site/
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/loi/linkid.js (from https://www.weezbe.com/blog/tag/loi/)
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/mentions-legales/linkid.js (from https://www.weezbe.com/blog/tag/mentions-legales/)
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/communiquer-les-reseaux-sociaux-quelques-conseils/linkid.js (from https://www.weezbe.com/blog/communiquer-les-reseaux-sociaux-quelques-conseils/)
+00:47:59	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4676
+00:47:59	Warning: 	File has moved from https://www.weezbe.com/?p=4676 to https://www.weezbe.com/blog/communiquer-les-reseaux-sociaux-quelques-conseils/
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/linkedin/linkid.js (from https://www.weezbe.com/blog/tag/linkedin/)
+00:47:59	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/twitter/linkid.js (from https://www.weezbe.com/blog/tag/twitter/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/e-commerce/page/2/linkid.js (from https://www.weezbe.com/blog/tag/e-commerce/page/2/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/boutique-en-ligne-en-complement-dune-boutique-physique/linkid.js (from https://www.weezbe.com/blog/boutique-en-ligne-en-complement-dune-boutique-physique/)
+00:48:00	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4641
+00:48:00	Warning: 	File has moved from https://www.weezbe.com/?p=4641 to https://www.weezbe.com/blog/boutique-en-ligne-en-complement-dune-boutique-physique/
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/boutique/linkid.js (from https://www.weezbe.com/blog/tag/boutique/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/brick-and-mortar/linkid.js (from https://www.weezbe.com/blog/tag/brick-and-mortar/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/magasin/linkid.js (from https://www.weezbe.com/blog/tag/magasin/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/un-n-de-telephone-sur-son-e-shop-6-points-a-retenir/linkid.js (from https://www.weezbe.com/blog/un-n-de-telephone-sur-son-e-shop-6-points-a-retenir/)
+00:48:00	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4508
+00:48:00	Warning: 	File has moved from https://www.weezbe.com/?p=4508 to https://www.weezbe.com/blog/un-n-de-telephone-sur-son-e-shop-6-points-a-retenir/
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/confiance/linkid.js (from https://www.weezbe.com/blog/tag/confiance/)
+00:48:00	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/telephone/linkid.js (from https://www.weezbe.com/blog/tag/telephone/)
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/5-bonnes-raisons-de-ne-pas-ouvrir-un-site-d-e-commerce/linkid.js (from https://www.weezbe.com/blog/5-bonnes-raisons-de-ne-pas-ouvrir-un-site-d-e-commerce/)
+00:48:01	Warning: 	Moved Permanently for https://www.weezbe.com/?p=4479
+00:48:01	Warning: 	File has moved from https://www.weezbe.com/?p=4479 to https://www.weezbe.com/blog/5-bonnes-raisons-de-ne-pas-ouvrir-un-site-d-e-commerce/
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/raisons/linkid.js (from https://www.weezbe.com/blog/tag/raisons/)
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/vente-en-ligne/linkid.js (from https://www.weezbe.com/blog/tag/vente-en-ligne/)
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aubrac-artizana-une-boutique-bien-allechante/linkid.js (from https://www.weezbe.com/blog/aubrac-artizana-une-boutique-bien-allechante/)
+00:48:01	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3116
+00:48:01	Warning: 	File has moved from https://www.weezbe.com/?p=3116 to https://www.weezbe.com/blog/aubrac-artizana-une-boutique-bien-allechante/
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-appele-son-site-www-fanfan-latutlipeetsonacolyte-du-vercors-net/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-appele-son-site-www-fanfan-latutlipeetsonacolyte-du-vercors-net/)
+00:48:01	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3215
+00:48:01	Warning: 	File has moved from https://www.weezbe.com/?p=3215 to https://www.weezbe.com/blog/aujourdhui-romuald-a-appele-son-site-www-fanfan-latutlipeetsonacolyte-du-vercors-net/
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-estime-inutile-dafficher-son-telephone-sur-sa-boutique/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-estime-inutile-dafficher-son-telephone-sur-sa-boutique/)
+00:48:01	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3232
+00:48:01	Warning: 	File has moved from https://www.weezbe.com/?p=3232 to https://www.weezbe.com/blog/aujourdhui-romuald-a-estime-inutile-dafficher-son-telephone-sur-sa-boutique/
+00:48:01	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-vire-les-attributs-alt-de-ses-images-lalterophilie-cest-pas-ca-passion/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-vire-les-attributs-alt-de-ses-images-lalterophilie-cest-pas-ca-passion/)
+00:48:02	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3099
+00:48:02	Warning: 	File has moved from https://www.weezbe.com/?p=3099 to https://www.weezbe.com/blog/aujourdhui-romuald-a-vire-les-attributs-alt-de-ses-images-lalterophilie-cest-pas-ca-passion/
+00:48:02	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/conference-avec-weezbe-le-mardi-13-septembre-a-e-commerce-paris-2011/linkid.js (from https://www.weezbe.com/blog/conference-avec-weezbe-le-mardi-13-septembre-a-e-commerce-paris-2011/)
+00:48:02	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2512
+00:48:02	Warning: 	File has moved from https://www.weezbe.com/?p=2512 to https://www.weezbe.com/blog/conference-avec-weezbe-le-mardi-13-septembre-a-e-commerce-paris-2011/
+00:48:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-place-des-liens-publicitaires-adsense-en-une-de-son-site-commercial/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-place-des-liens-publicitaires-adsense-en-une-de-son-site-commercial/)
+00:48:04	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3274
+00:48:04	Warning: 	File has moved from https://www.weezbe.com/?p=3274 to https://www.weezbe.com/blog/aujourdhui-romuald-a-place-des-liens-publicitaires-adsense-en-une-de-son-site-commercial/
+00:48:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tete-en-lair-et-sa-page-daccueil-qui-envoute-les-visiteurs/linkid.js (from https://www.weezbe.com/blog/tete-en-lair-et-sa-page-daccueil-qui-envoute-les-visiteurs/)
+00:48:04	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2998
+00:48:04	Warning: 	File has moved from https://www.weezbe.com/?p=2998 to https://www.weezbe.com/blog/tete-en-lair-et-sa-page-daccueil-qui-envoute-les-visiteurs/
+00:48:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/page/3/linkid.js (from https://www.weezbe.com/blog/category/referencement-naturel-site-e-commerce/page/3/)
+00:48:04	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-fait-un-echange-de-lien-avec-un-annuaire-pokemon/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-fait-un-echange-de-lien-avec-un-annuaire-pokemon/)
+00:48:05	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3060
+00:48:05	Warning: 	File has moved from https://www.weezbe.com/?p=3060 to https://www.weezbe.com/blog/aujourdhui-romuald-a-fait-un-echange-de-lien-avec-un-annuaire-pokemon/
+00:48:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/fiche-produit/linkid.js (from https://www.weezbe.com/blog/tag/fiche-produit/)
+00:48:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/fiche-produit-optimise/linkid.js (from https://www.weezbe.com/blog/tag/fiche-produit-optimise/)
+00:48:05	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/tutoriel-weezbe/page/3/linkid.js (from https://www.weezbe.com/blog/category/tutoriel-weezbe/page/3/)
+00:48:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/page/5/linkid.js (from https://www.weezbe.com/blog/page/5/)
+00:48:06	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/fonctionnalites-creation-boutique-en-ligne/linkid.js (from https://www.weezbe.com/blog/fonctionnalites-creation-boutique-en-ligne/)
+00:48:06	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1050
+00:48:06	Warning: 	File has moved from https://www.weezbe.com/?p=1050 to https://www.weezbe.com/blog/fonctionnalites-creation-boutique-en-ligne/
+00:48:09	Error: 	Exit requested by shell or user
+00:48:09	Warning: 	File not added due to mirror cancel: https://www.weezbe.com/blog/tag/paiement-par-cheque/linkid.js
+00:48:09	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/4/linkid.js (from https://www.weezbe.com/blog/category/actualite-solution-e-commerce-weezbe/page/4/)
+00:48:09	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/retrouvez-weezbe-au-salon-e-commerce-paris-2010/linkid.js (from https://www.weezbe.com/blog/retrouvez-weezbe-au-salon-e-commerce-paris-2010/)
+00:48:09	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1792
+00:48:09	Warning: 	File has moved from https://www.weezbe.com/?p=1792 to https://www.weezbe.com/blog/retrouvez-weezbe-au-salon-e-commerce-paris-2010/
+00:48:09	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/le-marche-du-e-commerce-en-quelques-chiffres/linkid.js (from https://www.weezbe.com/blog/le-marche-du-e-commerce-en-quelques-chiffres/)
+00:48:09	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2760
+00:48:09	Warning: 	File has moved from https://www.weezbe.com/?p=2760 to https://www.weezbe.com/blog/le-marche-du-e-commerce-en-quelques-chiffres/
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/2009/linkid.js (from https://www.weezbe.com/blog/tag/2009/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/chiffres-du-e-commerce-en-languedoc-roussillon/linkid.js (from https://www.weezbe.com/blog/chiffres-du-e-commerce-en-languedoc-roussillon/)
+00:48:10	Warning: 	Moved Permanently for https://www.weezbe.com/?p=1836
+00:48:10	Warning: 	File has moved from https://www.weezbe.com/?p=1836 to https://www.weezbe.com/blog/chiffres-du-e-commerce-en-languedoc-roussillon/
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/g.gif (from https://stats.wp.com/e-201840.js)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/c.gif (from https://stats.wp.com/e-201840.js)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/reportage-france-3-dans-les-coulisses-de-lequipe-weezbe/t.gif (from https://stats.wp.com/e-201840.js)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/eboulette-de-romuald/page/4/linkid.js (from https://www.weezbe.com/blog/category/eboulette-de-romuald/page/4/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/aujourdhui-romuald-a-enfin-rempli-ses-cgv-lorem-ipsum-dolor-sit-amet-consectetur-adipisicing/linkid.js (from https://www.weezbe.com/blog/aujourdhui-romuald-a-enfin-rempli-ses-cgv-lorem-ipsum-dolor-sit-amet-consectetur-adipisicing/)
+00:48:10	Warning: 	Moved Permanently for https://www.weezbe.com/?p=3314
+00:48:10	Warning: 	File has moved from https://www.weezbe.com/?p=3314 to https://www.weezbe.com/blog/aujourdhui-romuald-a-enfin-rempli-ses-cgv-lorem-ipsum-dolor-sit-amet-consectetur-adipisicing/
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/ogone-sur-weezbe/linkid.js (from https://www.weezbe.com/blog/ogone-sur-weezbe/)
+00:48:10	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2858
+00:48:10	Warning: 	File has moved from https://www.weezbe.com/?p=2858 to https://www.weezbe.com/blog/ogone-sur-weezbe/
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/econnecsud/linkid.js (from https://www.weezbe.com/blog/tag/econnecsud/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/ecommerce/linkid.js (from https://www.weezbe.com/blog/tag/ecommerce/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/salon/linkid.js (from https://www.weezbe.com/blog/tag/salon/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/4/linkid.js (from https://www.weezbe.com/blog/category/actualites-site-e-commerce/page/4/)
+00:48:10	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/e-commerce/page/3/linkid.js (from https://www.weezbe.com/blog/tag/e-commerce/page/3/)
+00:48:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/facebook-fcommerce/linkid.js (from https://www.weezbe.com/blog/facebook-fcommerce/)
+00:48:11	Warning: 	Moved Permanently for https://www.weezbe.com/?p=2855
+00:48:11	Warning: 	File has moved from https://www.weezbe.com/?p=2855 to https://www.weezbe.com/blog/facebook-fcommerce/
+00:48:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/page/6/linkid.js (from https://www.weezbe.com/blog/page/6/)
+00:48:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/contre-remboursement/linkid.js (from https://www.weezbe.com/blog/tag/contre-remboursement/)
+00:48:11	Error: 	"Not Found" (404) at link https://www.weezbe.com/blog/tag/livraison-a-linternational/linkid.js (from https://www.weezbe.com/blog/tag/livraison-a-linternational/)
+00:48:11	Warning: 	File not added due to mirror cancel: https://www.weezbe.com/blog/tag/paiement-par-cheque/linkid.js
+00:48:11	Error: 	"mirror stopped by user" (-1) at link https://www.weezbe.com/blog/tag/paiement-par-cheque/linkid.js (from https://www.weezbe.com/blog/tag/paiement-par-cheque/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 31 seconds : 1845 links scanned, 1359 files written (40498048 bytes overall) [33128455 bytes received at 24521 bytes/sec], 29822009 bytes transferred using HTTP compression in 1263 files, ratio 28%, 11.8 requests per connection
+(350 errors, 275 warnings, 0 messages)
